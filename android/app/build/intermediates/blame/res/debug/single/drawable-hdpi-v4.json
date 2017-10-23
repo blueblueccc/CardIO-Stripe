@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cio_paypal_logo.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-hdpi-v4/cio_paypal_logo.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cio_ic_amex.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-hdpi-v4/cio_ic_amex.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cio_ic_mastercard.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-hdpi-v4/cio_ic_mastercard.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cio_ic_jcb.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-hdpi-v4/cio_ic_jcb.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cio_card_io_logo.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-hdpi-v4/cio_card_io_logo.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cio_ic_discover.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-hdpi-v4/cio_ic_discover.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cio_ic_visa.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-hdpi-v4/cio_ic_visa.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cio_ic_paypal_monogram.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-hdpi-v4/cio_ic_paypal_monogram.png"
+    }
+]

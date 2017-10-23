@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cio_paypal_logo.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-xhdpi-v4/cio_paypal_logo.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cio_card_io_logo.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-xhdpi-v4/cio_card_io_logo.png"
+    },
+    {
+        "merged": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/cio_ic_paypal_monogram.png",
+        "source": "/Users/dev/Desktop/stripe_card_io/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.5.1/res/drawable-xhdpi-v4/cio_ic_paypal_monogram.png"
+    }
+]
